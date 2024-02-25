@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🧑‍💻 I'm currently a software developer student
+🌱 I’m currently learning C#
+😄 Looking forward to grow my tech skills
+
 <!--
 **Abraham-Ost/abraham-ost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
